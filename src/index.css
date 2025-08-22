@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Utility: Balance line breaks for better headings */
+.text-balance { text-wrap: balance; }

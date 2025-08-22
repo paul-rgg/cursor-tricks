@@ -1,0 +1,17 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" fill="black"/>
+  <rect x="60" y="60" width="1080" height="580" rx="16" ry="16" fill="none" stroke="white" stroke-opacity="0.2" stroke-width="2"/>
+  <text x="600" y="140" fill="white" fill-opacity="0.85" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="40" text-anchor="middle">@ Symbols Menu (Placeholder)</text>
+  <g fill="white" fill-opacity="0.85">
+    <circle cx="120" cy="220" r="6"/>
+    <text x="140" y="226" font-size="28">Files & Folders</text>
+    <circle cx="120" cy="280" r="6"/>
+    <text x="140" y="286" font-size="28">Code</text>
+    <circle cx="120" cy="340" r="6"/>
+    <text x="140" y="346" font-size="28">Docs</text>
+    <circle cx="120" cy="400" r="6"/>
+    <text x="140" y="406" font-size="28">Git</text>
+    <circle cx="120" cy="460" r="6"/>
+    <text x="140" y="466" font-size="28">Past Chats</text>
+  </g>
+</svg>
